@@ -5,7 +5,7 @@
 ## 아이폰에서 쓰기
 
 1. Safari로 아래 주소를 엽니다.
-   - https://hyunykkal-gif.github.io/peach-diary/
+   - https://hyunykkal-gif.github.io/-/
 2. 공유 버튼 → **홈 화면에 추가**를 누르면 앱처럼 바로 열립니다.
 
 ## 기능
